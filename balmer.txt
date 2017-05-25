@@ -1,0 +1,22 @@
+[6563, 4861, 4341, 4102, 3970, 3889, 3835, 3646]
+
+http://www.phys.utk.edu/labs/modphys/BalmerSeries.pdf
+656.28 nm
+Balmer Beta 2 4 Hβ 486.13 nm
+Balmer Gamma 2 5 Hγ 434.05nm
+Balmer Delta 2 6 Hδ 410.17 nm 
+
+[6562.8, 4861.3, 4340.5, 4101.7]
+
+
+http://hyperphysics.phy-astr.gsu.edu/hbase/Tables/hydspec.html
+383.5384	5	9 -> 2	Violet
+388.9049	6	8 -> 2	Violet
+397.0072	8	7 -> 2	Violet
+410.174	15	6 -> 2	Violet
+434.047	30	5 -> 2	Violet
+486.133	80	4 -> 2	Bluegreen (cyan)
+656.272	120	3 -> 2	Red
+656.2852
+
+[6562.852, 4861.33, 4340.47, 4101.74, 3970.072, 3889.049, 3835.384, 3646]

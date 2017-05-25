@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\begin{document}
+  \begin{abstract}
+  hi\textit{a
+\begin{itemize}
+\item hello
+\item two
+\item 3
+\end{itemize}
+}
+  \end{abstract}
+\[  	hello\]
+(Type your content here.)
+A255: Research Methods in Astrophysics
+\textbf{asdf}
+David Proctor
+$ E = mc^2 $
+$ F = \frac{Gm_im_j}{r^2} $
+$ \int_{0}^{x} f(u) du $
+
+$ (1*10^9\:small\:stars) * (\frac{1\:star}{.70\:small\:stars}) $
+
+$ .05*T = BH $
+
+% \text {Let T = number of total stars in the Milky Way} 
+
+$ T = (1*10^9\:small\:stars) * (\frac{1\:star}{.70\:small\:stars}) $ \\
+hi
+
+
+$ .05*T = BH $
+
+\end{document}

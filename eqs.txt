@@ -1,0 +1,59 @@
+% equation for kepler's law
+
+$ a^3 = \frac{P^2G(M_1 + M_2)} {(2\pi)^2} $
+
+% circular motion eq
+
+$ V = \frac{2\pi a}{P} $
+
+% all together now
+
+$\frac{K_2^3}{2\pi G} = \frac{M_1(\sin(i)^2)}{(1 + q)^2}$
+
+
+% problem 0: number of stars estimation.
+
+\text{Let T = number of total stars in the Milky Way} 
+
+$ T = (1*10^9\:small\:stars) * (\frac{1\:star}{.70\:small\:stars}) $
+
+
+$ .05*T = BH $
+
+
+.05*T = BH \rightarrow 7.1*10^7 BHs
+
+
+Binsize: 1.48 (angstroms / pixel)
+
+Minimum spectral resolution: 2477.31 (unitless)
+
+Maximum spectral resolution: 3652.33 (unitless)
+
+Temperature: 6399.68 (Kelvin)
+
+Classification: type F
+
+Star mass: 1.1 (Solar masses)
+
+T = \frac{b}{\lambda_{max}}
+
+Maximal delta velocity: 43011 m/s
+
+
+
+
+Mass of unseen companion: 0.0940 (solar masses)
+
+Mass of unseen companion: 0.0077 (solar masses)
+
+Mass of unseen companion: 0.0379 (solar masses)
+
+Lower bound mass of unseen companion: 0.0047 (solar masses)
+
+Because the residuals are slightly better on the right, we will proceed with that one, which will give us a lower bound on the mass of the black hole.
+However,
+
+
+print prec_lines9 = np.array([227.35970508989419, 479.94212680260267, 530.17943090116353, 623.75658154949815, 673.52240514805362, 822.09028232214121, 899.73527464619019, 927.99307241410168, 991.1657717914203])
+print prec_wvlens9 = np.array([3888.646, 4200.674, 4259.361, 4333.561, 4471.477, 4545.08, 4764.89, 4879.9, 4921.929, 5015.675])

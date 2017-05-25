@@ -1,0 +1,21 @@
+% equation for kepler's law
+
+$ a^3 = \frac{P^2G(M_1 + M_2)} {(2\pi)^2} $
+
+% circular motion eq
+
+$ V = \frac{2\pi a}{P} $
+
+% all together now
+
+$\frac{K_2^3}{2\pi G} = \frac{M_1(\sin(i)^2)}{(1 + q)^2}$
+
+
+% problem 0: number of stars estimation.
+
+\text{Let T = number of total stars in the Milky Way} 
+
+$ T = (1*10^9\:small\:stars) * (\frac{1\:star}{.70\:small\:stars}) $
+
+
+$ .05*T = BH $
